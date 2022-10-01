@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Inter Tight', sans-serif;
+}
+
+:root{
+    --nav-background-color: #0E0B14;
+    --white-color: #f9f9f9
+}
