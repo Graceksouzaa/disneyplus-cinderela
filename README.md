@@ -1,5 +1,5 @@
 <h1 align="center">
-Clone iDsney Plus - Cindelera 👑🏰
+Clone Disney Plus - Cindelera 👑🏰
 </h1>
 <h2 align="center">
 Project developed using HTML, CSS and JavaScript technologies.
