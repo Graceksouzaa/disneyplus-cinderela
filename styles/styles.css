@@ -233,12 +233,10 @@ body{
     opacity: .9;
 }
 
-.carrosel-img:hover{
+.carrosel-img img:hover{
     border-radius: 5px;
     border: 5px solid var(--white-color);
     transition: 300ms;
-
-    height: 167px;
 }
 
 /* Para ocultar o scroll bar horizontal */
